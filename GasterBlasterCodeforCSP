@@ -1,0 +1,214 @@
+{
+    "gaster": [
+        {
+            "indexATK": 1,
+            "waitToBeEnabled": 2.0,
+            "lerpTime": 0.5,
+            "lerpTimeWaitBeforeShoot": 0.800000011920929,
+            "lerpTimeLeave": 0.699999988079071,
+            "pos1": {
+                "x": 0,
+                "y": 0.75
+            },
+            "pos2": {
+                "x": 0,
+                "y": 0.75
+            },
+            "random": true,
+            "randCircleSize": {
+                "x": 10.0,
+                "y": 5.0
+            },
+            "lookAtPlayer": true,
+            "rotateDegree1": 0.0,
+            "rotateDegree2": 90.0,
+            "rotateDegree2Add": 0.0,
+            "scale": {
+                "x": 2.5253350734710695,
+                "y": 4.805434226989746
+            },
+            "timeStay": 0.0,
+            "colorBlaster": 0
+        },
+        {
+            "indexATK": 0,
+            "waitToBeEnabled": 4.25,
+            "lerpTime": 0.09000001192092898,
+            "lerpTimeWaitBeforeShoot": 1,
+            "lerpTimeLeave": 0.75,
+            "pos1": {
+                "x": 0,
+                "y": 2
+            },
+            "pos2": {
+                "x": 0,
+                "y": 2
+            },
+            "random": false,
+            "randCircleSize": {
+                "x": 10.0,
+                "y": 5.0
+            },
+            "lookAtPlayer": false,
+            "rotateDegree1": 90.0,
+            "rotateDegree2": 90.0,
+            "rotateDegree2Add": 0.0,
+            "scale": {
+                "x": 10.,
+                "y": 6
+            },
+            "timeStay": 0.0,
+            "colorBlaster": 0
+        },
+        {
+            "indexATK": 0,
+            "waitToBeEnabled": 3.25,
+            "lerpTime": 0.09000001192092898,
+            "lerpTimeWaitBeforeShoot": 1.25,
+            "lerpTimeLeave": 0.75,
+            "pos1": {
+                "x": 0,
+                "y": 0.5
+            },
+            "pos2": {
+                "x": 0,
+                "y": 0.5
+            },
+            "random": false,
+            "randCircleSize": {
+                "x": 10.0,
+                "y": 5.0
+            },
+            "lookAtPlayer": false,
+            "rotateDegree1": 90.0,
+            "rotateDegree2": 90.0,
+            "rotateDegree2Add": 0.0,
+            "scale": {
+                "x": 3.5,
+                "y": 6
+            },
+            "timeStay": 0.0,
+            "colorBlaster": 0
+        },
+        {
+            "indexATK": 0,
+            "waitToBeEnabled": 5.0,
+            "lerpTime": 0.25,
+            "lerpTimeWaitBeforeShoot": 0.75,
+            "lerpTimeLeave": 0.5,
+            "pos1": {
+                "x": 1,
+                "y": 5
+            },
+            "pos2": {
+                "x": 1,
+                "y": 5
+            },
+            "random": false,
+            "randCircleSize": {
+                "x": 10.0,
+                "y": 5.0
+            },
+            "lookAtPlayer": true,
+            "rotateDegree1": 0.0,
+            "rotateDegree2": 90.0,
+            "rotateDegree2Add": 0.0,
+            "scale": {
+                "x": 3.5,
+                "y": 4
+            },
+            "timeStay": 0.0,
+            "colorBlaster": 0
+        },
+        {
+            "indexATK": 0,
+            "waitToBeEnabled": 5.0,
+            "lerpTime": 0.25,
+            "lerpTimeWaitBeforeShoot": 0.75,
+            "lerpTimeLeave": 0.5,
+            "pos1": {
+                "x": 5.6,
+                "y": 5
+            },
+            "pos2": {
+                "x": 5.6,
+                "y": 5
+            },
+            "random": false,
+            "randCircleSize": {
+                "x": 10.0,
+                "y": 5.0
+            },
+            "lookAtPlayer": true,
+            "rotateDegree1": 0.0,
+            "rotateDegree2": 0.0,
+            "rotateDegree2Add": 0.0,
+            "scale": {
+                "x": 3.5,
+                "y": 4
+            },
+            "timeStay": 0.0,
+            "colorBlaster": 0
+        },
+        {
+            "indexATK": 0,
+            "waitToBeEnabled": 6.5,
+            "lerpTime": 0.25,
+            "lerpTimeWaitBeforeShoot": 0.75,
+            "lerpTimeLeave": 0.5,
+            "pos1": {
+                "x": 1,
+                "y": 5
+            },
+            "pos2": {
+                "x": 1,
+                "y": 5
+            },
+            "random": false,
+            "randCircleSize": {
+                "x": 10.0,
+                "y": 5.0
+            },
+            "lookAtPlayer": true,
+            "rotateDegree1": 0.0,
+            "rotateDegree2": 90.0,
+            "rotateDegree2Add": 0.0,
+            "scale": {
+                "x": 3.5,
+                "y": 4
+            },
+            "timeStay": 0.0,
+            "colorBlaster": 0
+        },
+        {
+            "indexATK": 0,
+            "waitToBeEnabled": 6.5,
+            "lerpTime": 0.25,
+            "lerpTimeWaitBeforeShoot": 0.75,
+            "lerpTimeLeave": 0.5,
+            "pos1": {
+                "x": 5.6,
+                "y": 5
+            },
+            "pos2": {
+                "x": 5.6,
+                "y": 5
+            },
+            "random": false,
+            "randCircleSize": {
+                "x": 10.0,
+                "y": 5.0
+            },
+            "lookAtPlayer": true,
+            "rotateDegree1": 0.0,
+            "rotateDegree2": 0.0,
+            "rotateDegree2Add": 0.0,
+            "scale": {
+                "x": 3.5,
+                "y": 4
+            },
+            "timeStay": 0.0,
+            "colorBlaster": 0
+        }
+    ]
+}
